@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "what" 
+=======
+"another file on branch test2" 
+>>>>>>> test2
